@@ -13,6 +13,41 @@
 ![](https://streak-stats.demolab.com/?user=sitikanthsahoo&theme=aura&hide_border=false)<br/> </br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sitikanthsahoo&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/SITIKANTH_SAHOO/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://hive.smartinterviews.in/profile/2301020579">
+    <img src="https://img.shields.io/badge/Smart%20Interviews-0066CC?style=for-the-badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/sitikanth_dsp">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.interviewbit.com/profile/sitikanth-sahoo/">
+    <img src="https://img.shields.io/badge/InterviewBit-323754?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+<p align="center">
+
+🚀 **300+ DSA Problems Solved**
+
+📚 Following **Striver's A2Z DSA Sheet**
+
+💡 Strong focus on **Problem Solving, Competitive Programming, and Interview Preparation**
+
+<a href="https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z">
+  <img src="https://img.shields.io/badge/Striver-A2Z%20DSA%20Sheet-blueviolet?style=for-the-badge"/>
+</a>
+
+</p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
